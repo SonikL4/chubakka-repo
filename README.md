@@ -1,2 +1,2 @@
 # chubakka-repo
-test 2.1 in branch main
+test 2.2 in branch main
